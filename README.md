@@ -1,5 +1,5 @@
 - Oi, me chamo Gabriele;
-- Faço Licenciátura em matemática;
+- Faço Licenciatura em matemática;
 - Participei de projeto de pesquisa envolvendo programação;
 - Criei jogos educativos;
 - E estou aqui para estudar :)
